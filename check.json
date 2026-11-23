@@ -1,0 +1,11 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "lag_samples": 2,
+    "lag_ms": 2,
+    "correlation": 1
+  }
+}
